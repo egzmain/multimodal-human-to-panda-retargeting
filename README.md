@@ -4,6 +4,24 @@
 
 A low-cost real-to-sim pipeline that converts personally collected iPhone RGB-D hand demonstrations and capacitive interaction cues into learned Franka Panda manipulation trajectories in MuJoCo.
 
+**## 🎥 Final Demonstration**
+
+
+
+**\*\*\[▶ Watch the final human-to-Panda demonstration](assets/demo.mov)\*\***
+
+
+
+**The video shows the personally collected human manipulation data alongside a held-out learned-policy execution on a Franka Emika Panda in MuJoCo.**
+
+
+
+**\*\*Held-out Episode 19:\*\* 0.79 cm mean 3D position error.**
+
+
+
+**> The Panda trajectory and gripper state are policy predictions. Cube attachment is event-conditioned visualization rather than physics-based grasping.**
+
 
 
 \## Demo

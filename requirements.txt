@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+opencv-python
+mediapipe==0.10.21
+mujoco==3.1.5
+torch
+pyserial
+OpenEXR
